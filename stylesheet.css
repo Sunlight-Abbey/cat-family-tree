@@ -1,0 +1,255 @@
+body {
+    margin: 0;
+    background-color:#f3e5d8
+    
+}
+
+.container{
+    background-color: white;
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+.precious{
+    background-color: white;
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 20px;
+    overflow: hidden
+
+}
+
+.precious img{
+    float: left;
+    width: 150px;
+    margin-right: 20px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    border-radius: auto;
+    
+}
+
+.ricky{
+    background-color: white;
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 20px;
+    overflow: hidden
+
+}
+.ricky img{
+    float: left;
+    width: 150px;
+    margin-right: 20px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    border-radius: auto;
+    
+}
+
+.twinkie{
+    background-color: white;
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 20px;
+    overflow: hidden
+
+}
+.twinkie img{
+    float: left;
+    width: 150px;
+    margin-right: 20px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    border-radius: auto;
+    
+}
+
+.brownie{
+    background-color: white;
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 20px;
+    overflow: hidden
+
+}
+.brownie img{
+    float: left;
+    width: 150px;
+    margin-right: 20px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    border-radius: auto;
+    
+}
+
+.blackie{
+    background-color: white;
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 20px;
+    overflow: hidden
+
+}
+.blackie img{
+    float: left;
+    width: 150px;
+    margin-right: 20px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    border-radius: auto;
+    
+}
+
+.tommy{
+    background-color: white;
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 20px;
+    overflow: hidden
+
+}
+.tommy img{
+    float: left;
+    width: 150px;
+    margin-right: 20px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    border-radius: auto;
+    
+}
+.oreo{
+    background-color: white;
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 20px;
+    overflow: hidden
+
+}
+.oreo img{
+    float: left;
+    width: 150px;
+    margin-right: 20px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    border-radius: auto;
+    
+}
+.purrpurr{
+    background-color: white;
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 20px;
+    overflow: hidden
+
+}
+.purrpurr img{
+    float: left;
+    width: 150px;
+    margin-right: 20px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    border-radius: auto;
+    
+}
+
+.scooter{
+    background-color: white;
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 20px;
+    overflow: hidden
+
+}
+.scooter img{
+    float: left;
+    width: 150px;
+    margin-right: 20px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    border-radius: auto;
+    
+}
+
+.blackie2{
+    background-color: white;
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 20px;
+    overflow: hidden
+
+}
+.blackie2 img{
+    float: left;
+    width: 150px;
+    margin-right: 20px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    border-radius: auto;
+    
+}
+.cowbell{
+    background-color: white;
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 20px;
+    overflow: hidden
+
+}
+.cowbell img{
+    float: left;
+    width: 150px;
+    margin-right: 20px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    border-radius: auto;
+    
+}
+
+h2{
+    font-family: "Luckiest Guy", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p{
+    font-family: "Wellfleet", serif;
+    font-weight: 400;
+    font-style: normal;
+}
